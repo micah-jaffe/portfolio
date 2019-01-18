@@ -2596,7 +2596,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/gears-rot.jpg");
+		background-image: url("images/overlay.png"), url("../../images/rocks.jpeg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,							175%;
@@ -2635,7 +2635,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.6);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -2643,7 +2643,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 11em;
 		}
 
 /* Footer */
@@ -2653,7 +2653,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(255, 255, 255, 0.6);
 		}
 
 	#footer .copyright {
