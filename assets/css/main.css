@@ -1794,6 +1794,15 @@ input, select, textarea {
 		font-size: 2em;
 	}
 
+	.gears {
+		align-items: center;
+		background-image: url("../../images/gears.jpg");
+		border-radius: 0.35em;
+		display: flex;
+		height: 15em;
+		justify-content: center;
+	}
+
 /* Form */
 
 	form {
@@ -2014,6 +2023,10 @@ input, select, textarea {
 			display: none;
 		}
 
+	.skill {
+		font-size: 4em;
+		color: #49bf9d;
+	}
 /* Image */
 
 	.image {
@@ -2217,6 +2230,11 @@ input, select, textarea {
 				top: 0;
 				width: 1em;
 			}
+
+	ul.skills li {
+		margin: 0 auto;
+		padding: 1.5em;
+	}
 
 /* Actions */
 
@@ -2530,6 +2548,12 @@ input, select, textarea {
 			cursor: default;
 		}
 
+	
+	.solid {
+		background-color: #ffffff;
+		box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.4);
+	}
+
 /* Work Item */
 
 	.work-item {
@@ -2572,7 +2596,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/rocks1.jpeg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
