@@ -2596,10 +2596,10 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/rocks1.jpeg");
+		background-image: url("images/overlay.png"), url("../../images/gears-rot.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,								150%;
+		background-size: auto,							175%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
