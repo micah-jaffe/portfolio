@@ -2246,14 +2246,12 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		/* margin-left: -1em; */
-		margin: 0;
+		margin-left: -1em;
 		padding-left: 0;
 	}
 
 		ul.actions li {
-			/* padding: 0 0 0 1em; */
-			padding: 0;
+			padding: 0 0 0 1em;
 			vertical-align: middle;
 		}
 
@@ -3220,10 +3218,10 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-		/* Resume Button */
+		/* Resume Download */
 
-			#resume-btn {
-				width: 200px;
+			.gears {
+				display: none;
 			}
 
 	}
