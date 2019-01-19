@@ -2232,10 +2232,13 @@ input, select, textarea {
 				width: 1em;
 			}
 
-	ul.skills li {
+	ul.skills {
 		margin: 0 auto;
-		padding: 1.5em;
 	}
+
+		ul.skills li {
+			padding: 1.5em;
+		}
 
 /* Actions */
 
