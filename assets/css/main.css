@@ -1804,6 +1804,10 @@ input, select, textarea {
 		opacity: 0.8;
 	}
 
+	#mobile-resume-btn {
+		display: none;
+	}
+
 /* Form */
 
 	form {
@@ -3225,6 +3229,10 @@ input, select, textarea {
 
 			.gears {
 				display: none;
+			}
+
+			#mobile-resume-btn {
+				display: inherit;
 			}
 
 	}
